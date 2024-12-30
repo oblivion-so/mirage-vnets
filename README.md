@@ -1,3 +1,4 @@
+![Oblivion](https://www.oblivion.so/logo-text.svg)
 # Mirage Virtual Testnet
 
 ![Status](https://img.shields.io/badge/status-in_development-orange)
