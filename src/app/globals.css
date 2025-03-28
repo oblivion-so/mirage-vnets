@@ -47,3 +47,15 @@ body {
   scrollbar-width: thin;
   scrollbar-color: #d461fa64 #070707;
 }
+
+.gradient-border {
+  position: relative;
+  border-radius: 33px;
+  /* background: linear-gradient(to right, #D461FA, #00000000) border-box;
+  -webkit-mask-image: linear-gradient(#fff 0 0);
+  mask-image: linear-gradient(#fff 0 0); */
+}
+
+.contact-button {
+  background: linear-gradient(to right, #000000, rgba(0, 0, 0, 0));
+}
